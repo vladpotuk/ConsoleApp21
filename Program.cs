@@ -5,7 +5,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Завдання 1: Підрахунок парних, непарних та унікальних елементів масивуeee
         int[] array = { 1, 2, 3, 4, 5, 5, 6, 6, 7, 8, 8, 9, 9, 9 };
         CountArrayElements(array);
 
